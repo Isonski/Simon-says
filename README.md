@@ -1,5 +1,5 @@
 # Simon-says
-https://www.tinkercad.com/things/kVHZvOhxZNx-simon-says
+https://www.tinkercad.com/things/24gyoaczT5d-it-kariera-simon-says?sharecode=6HzBy3BWmtbK_C4wcmhApVTK2bjxWnESniU9wBsJZj8
 
 
  Име на проекта:
